@@ -1,0 +1,15 @@
+{
+  "name": "advent-of-code-2019",
+  "version": "1.0.0",
+  "description": "",
+  "main": "2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edward Dewhurst",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.1",
+    "prettier": "^1.19.1"
+  }
+}
